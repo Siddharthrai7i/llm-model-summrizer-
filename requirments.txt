@@ -1,0 +1,7 @@
+langchain
+huggingface_hub
+fpdf 
+streamlit
+pickle
+io
+os
